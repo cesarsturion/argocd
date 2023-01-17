@@ -1,0 +1,1 @@
+{"buildTargets":["argo-port-forward","create-cluster","destroy","get-admin-password","help","install-argocd","install-infra","show-argo-pods"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
